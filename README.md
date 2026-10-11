@@ -85,3 +85,12 @@ A programação do CLP principal foi desenvolvida em **Linguagem Ladder** atrav�
  |--[ T201 ]-----------------------------------------------------[ RST T251  ]--|
  |
  |--[ X002 ]-----------------------------------------------------
+
+ ---
+
+## 🎓 Autores e Instituição
+
+* **Autores:** João Pedro Rocha Assis, Álvaro Freitas, Davi Alexandre Silva Santana
+* **Orientadora:** Prof.ª Valéria Rodrigues Valle
+* **Instituição:** Instituto Federal Fluminense (IFF) — Campus Santo Antônio de Pádua
+* **Data de Submissão:** Novembro de 2023
