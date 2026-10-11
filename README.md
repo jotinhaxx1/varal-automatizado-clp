@@ -87,7 +87,7 @@ A programação do CLP principal foi desenvolvida em **Linguagem Ladder** atrav�
  |--[ X002 ]-----------------------------------------------------
 
  ---
-
+```
 ## 🎓 Autores e Instituição
 
 * **Autores:** João Pedro Rocha Assis, Álvaro Freitas, Davi Alexandre Silva Santana
